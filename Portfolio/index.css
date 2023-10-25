@@ -1,1 +1,22 @@
 /* Write your code below for PORTFOLIO */
+body {
+  background-color: rgb(183, 193, 221);
+  color: rgb(59, 55, 55);
+  font-family: 'Times New Roman', Times, serif;
+}
+.projectimg {
+  height: 300px;
+  width: 300px;
+}
+.projecthead {
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+}
+button {
+  background-color: grey;
+  border: 0px;
+  border-radius: 8px;
+  padding: 7px;
+  margin: 5px;
+}
