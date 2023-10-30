@@ -1,1 +1,43 @@
 /* Write your code below for PORTFOLIO */
+body {
+  background-color: rgb(183, 193, 221);
+  color: rgb(59, 55, 55);
+  font-family: 'Times New Roman', Times, serif;
+}
+.projectimg {
+  height: 300px;
+  width: 300px;
+}
+.projecthead {
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+}
+button {
+  background-color: grey;
+  border: 0px;
+  border-radius: 8px;
+  padding: 7px;
+  margin: 5px;
+}
+
+.contact {
+  background-color: grey;
+  padding: 5px;
+}
+form {
+  background-color: rgb(207, 207, 200);
+  border-radius: 5px;
+  padding:5px;
+  margin: 10px;
+}
+input{
+  background-color: rgb(234, 232, 232);
+  border:none;
+  width: 100%;
+}
+
+.submit {
+  background-color: aliceblue;
+  align-self: center;
+}
